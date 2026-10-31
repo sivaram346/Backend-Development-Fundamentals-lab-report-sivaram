@@ -1,15 +1,14 @@
 # Lab 1: Node.js and Express Server
 
-**Live link:** [https://your-app-name.onrender.com](https://your-app-name.onrender.com)
-*(Deploy your app and replace this URL)*
+**Live link:** Not deployed – see Postman/browser screenshots below
 
 ---
 
 | Field | Details |
 |---|---|
 | **Name** | Sivaram |
-| **Registration Number** | Your Reg. No. |
-| **Section** | Your Section |
+| **Registration Number** | 252U1R1197 |
+| **Section** | 214 |
 | **Course** | Backend Development Fundamentals |
 | **Faculty** | Joel Prashanth D |
 

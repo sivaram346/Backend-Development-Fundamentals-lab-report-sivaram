@@ -22,8 +22,9 @@ app.get('/', (req, res) => {
 app.get('/about', (req, res) => {
   console.log(`[${new Date().toISOString()}] GET /about  →  200`);
   res.status(200).json({
-    name: 'Sivaram',               // Student name
-    section: 'Your Section',       // TODO: replace with your actual section
+    name: 'Sivaram',
+    registrationNumber: '252U1R1197',
+    section: '214',
     lab: 'Lab 1 – Node.js and Express Server',
     course: 'Backend Development Fundamentals',
   });
